@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DDELabs.We are also called by name of Laboratory of Cellular Differentiation & Metabolic Disorder
 - 👀 Dr. DDE's Lab uses several machine learning and deep learning models on multi omics data(transcriptomics and epigenomics primarily) 
       for understanding pathological manifestations of several metabolic disorders and also discovering novel drugs.
-- 💞️ I’m looking to collaborate on ...
 - 📫 https://ddelabs.in/
 
 <!---
